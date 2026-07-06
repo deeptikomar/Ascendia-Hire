@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<jobs>
+  <jobList>
+    <job>
+      <id>1776180578800</id>
+      <title>Backend Developer</title>
+      <company>GENX</company>
+      <postedBy>recruiter1@gmail.com</postedBy>
+      <requiredSkills>
+        <skill>NodeJS</skill>
+      </requiredSkills>
+      <applicants>
+        <applicant>admin1@nitk.edu.in</applicant>
+        <applicant>admin2@nitk.edu.in</applicant>
+      </applicants>
+    </job>
+  </jobList>
+</jobs>

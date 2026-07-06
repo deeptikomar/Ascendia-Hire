@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<users>
+  <user>
+    <name>Test Student</name>
+    <email>student@gmail.com</email>
+    <password>student123</password>
+    <role>student</role>
+    <program>BTech</program>
+    <joinYear>2023</joinYear>
+    <graduationYear>2027</graduationYear>
+  </user>
+  <user>
+    <name>Jane Recruiter</name>
+    <email>recruiter@techcorp.com</email>
+    <password>recruit123</password>
+    <role>recruiter</role>
+    <company>TechCorp</company>
+  </user>
+  <user>
+    <name>recruiter1</name>
+    <email>recruiter1@gmail.com</email>
+    <password>12345</password>
+    <role>recruiter</role>
+    <company>GENX</company>
+  </user>
+  <user>
+    <name>admin1</name>
+    <email>admin1@nitk.edu.in</email>
+    <password>12345</password>
+    <role>student</role>
+    <program>BTech</program>
+    <joinYear>2025</joinYear>
+    <graduationYear>2029</graduationYear>
+  </user>
+  <user>
+    <name>admin2</name>
+    <email>admin2@nitk.edu.in</email>
+    <password>12345</password>
+    <role>student</role>
+    <program>BTech</program>
+    <joinYear>2025</joinYear>
+    <graduationYear>2029</graduationYear>
+  </user>
+  <user>
+    <name>recruiter2</name>
+    <email>recruiter2@gmail.com</email>
+    <password>12345</password>
+    <role>recruiter</role>
+    <company>ASHEX</company>
+  </user>
+  <user>
+    <name>admin3</name>
+    <email>admin3@nitk.edu.in</email>
+    <password>12345</password>
+    <role>student</role>
+    <program>BTech</program>
+    <joinYear>2025</joinYear>
+    <graduationYear>2029</graduationYear>
+  </user>
+  <user>
+    <name>Deepti komar</name>
+    <email>deeptikomar@nitk.edu.in</email>
+    <password>Deepti123@</password>
+    <role>student</role>
+    <program>BTech</program>
+    <joinYear>2024</joinYear>
+    <graduationYear>2028</graduationYear>
+  </user>
+</users>

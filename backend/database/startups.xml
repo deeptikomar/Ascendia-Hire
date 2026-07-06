@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<startups>
+  <startup>
+    <id>1776152998429</id>
+    <title>SMARTHIRE</title>
+    <description>Providing skill gap analysis for the students and allowing recruiters to hire the students through this portal</description>
+    <creator>admin1@nitk.edu.in</creator>
+    <requiredSkills>
+      <skill>react</skill>
+      <skill>js</skill>
+      <skill>html</skill>
+      <skill>css</skill>
+    </requiredSkills>
+    <team>
+      <member>admin1@nitk.edu.in</member>
+      <member>admin2@nitk.edu.in</member>
+      <member>deeptikomar@nitk.edu.in</member>
+    </team>
+    <messages>
+      <message>
+        <author>admin1@nitk.edu.in</author>
+        <text>hi</text>
+        <ts>1776186141535</ts>
+      </message>
+      <message>
+        <author>admin2@nitk.edu.in</author>
+        <text>Hi this is admin2</text>
+        <ts>1776186189016</ts>
+      </message>
+      <message>
+        <author>admin1@nitk.edu.in</author>
+        <text>hello</text>
+        <ts>1776190424505</ts>
+      </message>
+      <message>
+        <author>admin2@nitk.edu.in</author>
+        <text>how did u get this idea!!</text>
+        <ts>1776250006003</ts>
+      </message>
+      <message>
+        <author>admin1@nitk.edu.in</author>
+        <text>actually i wanted to build something to make student life easier</text>
+        <ts>1776250051806</ts>
+      </message>
+      <message>
+        <author>admin2@nitk.edu.in</author>
+        <text>okk okk</text>
+        <ts>1776250108971</ts>
+      </message>
+      <message>
+        <author>deeptikomar@nitk.edu.in</author>
+        <text>hello</text>
+        <ts>1776429652575</ts>
+      </message>
+    </messages>
+  </startup>
+</startups>
